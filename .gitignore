@@ -1,0 +1,16 @@
+# Environment variables (contains passwords)
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.class
+
+# Terraform state
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Logs and OS files
+.DS_Store
+db_monitor.log
