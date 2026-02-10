@@ -15,4 +15,4 @@ echo "------------------------------"
 echo "✅ SUCCESS: Monitor detected failure and restarted the database!"
 EOF
 
-chmod +x test_system.sh
+chmod +x test_system.shs
